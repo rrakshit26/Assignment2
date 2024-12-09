@@ -3,8 +3,8 @@
 '''
 OPS445 Assignment 2
 Program: assignment2.py 
-Author: "Student Name"
-Semester: "Enter Winter/Summer/Fall Year"
+Author: "Rakshit"
+Semester: "Fall Year"
 
 The python code in this file is original work written by
 "Student Name". No code in this file is copied from any other source 
